@@ -105,7 +105,7 @@ The algorithm enables the robot to detect paths, avoid dead ends, and reach the 
 - Easy to Build
 - Educational Project
 
-## 🔮 Future Scope
+# Future Scope
 
 - Shortest Path Optimization
 - Bluetooth/Wi-Fi Control
@@ -121,9 +121,6 @@ The algorithm enables the robot to detect paths, avoid dead ends, and reach the 
 - Laxmi Shekayi
 - Laxmi Bindalagi
 - Naveen Nekar
+  ECE department
+  Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology, Lakshmeshwar.
 
-
-
-Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology, Lakshmeshwar.
-
-This README is professional and recruiter-friendly. Once you add your code, block diagram, circuit diagram, and project photos, your GitHub repository will look complete and polished.
