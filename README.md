@@ -124,6 +124,8 @@ The algorithm enables the robot to detect paths, avoid dead ends, and reach the 
 - Laxmi Shekayi
 - Laxmi Bindalagi
 - Naveen Nekar
+
+
   ECE department
   Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology, Lakshmeshwar.
 
